@@ -42,6 +42,7 @@ The [Iceberg format specification][iceberg-spec] is being actively updated and i
 [iceberg-spec]: https://iceberg.apache.org/spec
 
 
+
 ## Collaboration
 
 Iceberg tracks issues in GitHub and prefers to receive contributions as pull requests.
